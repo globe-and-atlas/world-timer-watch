@@ -1,0 +1,86 @@
+{
+  "url": "https://apps.repebble.com/dc42aa6ca1cf447785720f80",
+  "version": "0.2.0",
+  "pbw_exact": true,
+  "pbw_sha256": "fb48e1d9a3a15d448b0d3533c8050f03c330a09e22a9c8ebb1ca5842fdb87ab2",
+  "platforms": [
+    "emery",
+    "chalk",
+    "gabbro"
+  ],
+  "assets": [
+    {
+      "local": "emery_01_travel_colors.gif",
+      "public": "https://assets.repebble.com/screenshots/dc42aa6ca1cf447785720f80/emery/dad7d4d5-cf53-4862-a18b-15a24753cfb3.gif",
+      "frames_pixels_and_timing_exact": true,
+      "bytes_exact": true
+    },
+    {
+      "local": "emery_02_amber.gif",
+      "public": "https://assets.repebble.com/screenshots/dc42aa6ca1cf447785720f80/emery/17c1a8a1-2fd8-4381-8752-aadd1def045e.gif",
+      "frames_pixels_and_timing_exact": true,
+      "bytes_exact": true
+    },
+    {
+      "local": "emery_03_olive.gif",
+      "public": "https://assets.repebble.com/screenshots/dc42aa6ca1cf447785720f80/emery/a6eaf8dc-36a0-4758-b89c-78adac85c2a5.gif",
+      "frames_pixels_and_timing_exact": true,
+      "bytes_exact": true
+    },
+    {
+      "local": "emery_04_custom.gif",
+      "public": "https://assets.repebble.com/screenshots/dc42aa6ca1cf447785720f80/emery/e5c6d347-2d19-4148-88f5-2cfcd2577554.gif",
+      "frames_pixels_and_timing_exact": true,
+      "bytes_exact": true
+    },
+    {
+      "local": "chalk_01_travel_colors.gif",
+      "public": "https://assets.repebble.com/screenshots/dc42aa6ca1cf447785720f80/chalk/a38c232c-b8d4-4ccd-8ad6-5c8ebe88fff5.gif",
+      "frames_pixels_and_timing_exact": true,
+      "bytes_exact": true
+    },
+    {
+      "local": "chalk_02_amber.gif",
+      "public": "https://assets.repebble.com/screenshots/dc42aa6ca1cf447785720f80/chalk/bb2137f6-edc7-44bb-bd92-4833e9488a97.gif",
+      "frames_pixels_and_timing_exact": true,
+      "bytes_exact": true
+    },
+    {
+      "local": "chalk_03_olive.gif",
+      "public": "https://assets.repebble.com/screenshots/dc42aa6ca1cf447785720f80/chalk/6e3646d8-e48a-4e37-8fac-3abb12ccc37c.gif",
+      "frames_pixels_and_timing_exact": true,
+      "bytes_exact": true
+    },
+    {
+      "local": "chalk_04_custom.gif",
+      "public": "https://assets.repebble.com/screenshots/dc42aa6ca1cf447785720f80/chalk/8469079c-ca84-425d-9f27-38085bd2c7b5.gif",
+      "frames_pixels_and_timing_exact": true,
+      "bytes_exact": true
+    },
+    {
+      "local": "gabbro_01_travel_colors.gif",
+      "public": "https://assets.repebble.com/screenshots/dc42aa6ca1cf447785720f80/gabbro/39b68063-dfce-4280-a39f-bacdebbce3c9.gif",
+      "frames_pixels_and_timing_exact": true,
+      "bytes_exact": true
+    },
+    {
+      "local": "gabbro_02_amber.gif",
+      "public": "https://assets.repebble.com/screenshots/dc42aa6ca1cf447785720f80/gabbro/a3c92677-0972-424a-af97-aa522abc193a.gif",
+      "frames_pixels_and_timing_exact": true,
+      "bytes_exact": true
+    },
+    {
+      "local": "gabbro_03_olive.gif",
+      "public": "https://assets.repebble.com/screenshots/dc42aa6ca1cf447785720f80/gabbro/aa849138-6ba6-4f9a-a8bc-434267ce4ef5.gif",
+      "frames_pixels_and_timing_exact": true,
+      "bytes_exact": true
+    },
+    {
+      "local": "gabbro_04_custom.gif",
+      "public": "https://assets.repebble.com/screenshots/dc42aa6ca1cf447785720f80/gabbro/f25f4ce3-02eb-4edb-973e-9ce4f5eefea7.gif",
+      "frames_pixels_and_timing_exact": true,
+      "bytes_exact": true
+    }
+  ],
+  "verified_at": 1794087560.7359161
+}

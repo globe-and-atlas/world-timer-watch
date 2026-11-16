@@ -1,0 +1,13 @@
+Two cities. One clear view of the day.
+
+World Timer combines large city clocks, a schematic world map and aligned next-24-hour call-window strips. Choose Main and Other from 40 named cities, each with its own time zone and daylight-saving rules.
+
+Amber-on-black is the default. Choose Olive LCD or custom background, text and accent colors. Double-knock the watch case to send a dot travelling between your cities; the clocks stay readable. Travel can be disabled.
+
+Set daily call hours for each city, including overnight windows. These are your configured hours, not live availability detection. Choose 12/24-hour display, optional seconds and date formats including Off, ISO, US and European.
+
+Native layouts for Pebble Time 2, Time Round and Round 2.
+
+After updating, open settings to choose your cities and call hours. Previous manual UTC offsets are replaced by explicit city choices. Offline time-zone data uses IANA 2026f rules covering 2020 through 2037; future rule changes require an update.
+
+The native animated preview demonstrates travel followed by separately selected color settings. Colors do not cycle automatically on the watch.

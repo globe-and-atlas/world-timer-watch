@@ -1,0 +1,161 @@
+{
+  "version": "0.3.0",
+  "uuid": "0bd9074a-d5df-4b6b-99e7-90b829ab2aa7",
+  "artifact": "/Users/danielbally/Git/world-timer-watch/dist/World-Timer-0.3.0.pbw",
+  "sha256": "7d84c1ae5684563a86a7b57ab51d1379266b67850c40af6be98045e8d954e497",
+  "platforms": [
+    "emery",
+    "chalk",
+    "gabbro"
+  ],
+  "design": "approved departure-board split-flap",
+  "default_theme": "amber",
+  "alternatives": [
+    "olive",
+    "custom"
+  ],
+  "call_hours_ui": false,
+  "map_travel_ui": false,
+  "signed_difference": "Other offset minus Main offset at current UTC, preserving minutes",
+  "iana_version": "2026f",
+  "oracle_instants": 7060,
+  "native_checks": {
+    "emery": {
+      "platform": "emery",
+      "states": [
+        "amber",
+        "olive",
+        "negative",
+        "fractional",
+        "zero",
+        "long-iso",
+        "twelve",
+        "twelve-seconds",
+        "date-off",
+        "us",
+        "eu",
+        "expired",
+        "custom"
+      ],
+      "phase_start_exact": true,
+      "phase_end_exact": true,
+      "unchanged_pixels_stable": true,
+      "duration_ms": 5000,
+      "actual_timer_intermediate_frames": 2,
+      "actual_timer_settles": true,
+      "animation_off_snaps": true
+    },
+    "chalk": {
+      "platform": "chalk",
+      "states": [
+        "amber",
+        "olive",
+        "negative",
+        "fractional",
+        "zero",
+        "long-iso",
+        "twelve",
+        "twelve-seconds",
+        "date-off",
+        "us",
+        "eu",
+        "expired",
+        "custom"
+      ],
+      "phase_start_exact": true,
+      "phase_end_exact": true,
+      "unchanged_pixels_stable": true,
+      "duration_ms": 5000,
+      "actual_timer_intermediate_frames": 8,
+      "actual_timer_settles": true,
+      "animation_off_snaps": true,
+      "hour_midnight_dst_reassemble": true,
+      "reinstall_exact_settings": true,
+      "reinstall_animation_off": true
+    },
+    "gabbro": {
+      "platform": "gabbro",
+      "states": [
+        "amber",
+        "olive",
+        "negative",
+        "fractional",
+        "zero",
+        "long-iso",
+        "twelve",
+        "twelve-seconds",
+        "date-off",
+        "us",
+        "eu",
+        "expired",
+        "custom"
+      ],
+      "phase_start_exact": true,
+      "phase_end_exact": true,
+      "unchanged_pixels_stable": true,
+      "duration_ms": 5000,
+      "actual_timer_intermediate_frames": 11,
+      "actual_timer_settles": true,
+      "animation_off_snaps": true,
+      "reinstall_exact_settings": true,
+      "reinstall_animation_off": true,
+      "hour_midnight_dst_reassemble": true
+    }
+  },
+  "approved_reference": [
+    {
+      "platform": "emery",
+      "theme": "amber",
+      "content_pixels_different": 0,
+      "boundary_pixels_different": 0,
+      "scope": "native content; round hardware mask outer2.5px excluded"
+    },
+    {
+      "platform": "emery",
+      "theme": "olive",
+      "content_pixels_different": 0,
+      "boundary_pixels_different": 0,
+      "scope": "native content; round hardware mask outer2.5px excluded"
+    },
+    {
+      "platform": "chalk",
+      "theme": "amber",
+      "content_pixels_different": 0,
+      "boundary_pixels_different": 0,
+      "scope": "native content; round hardware mask outer2.5px excluded"
+    },
+    {
+      "platform": "chalk",
+      "theme": "olive",
+      "content_pixels_different": 0,
+      "boundary_pixels_different": 1072,
+      "scope": "native content; round hardware mask outer2.5px excluded"
+    },
+    {
+      "platform": "gabbro",
+      "theme": "amber",
+      "content_pixels_different": 0,
+      "boundary_pixels_different": 0,
+      "scope": "native content; round hardware mask outer2.5px excluded"
+    },
+    {
+      "platform": "gabbro",
+      "theme": "olive",
+      "content_pixels_different": 0,
+      "boundary_pixels_different": 173,
+      "scope": "native content; round hardware mask outer2.5px excluded"
+    }
+  ],
+  "production_fixture": false,
+  "automated_verification": "PASS",
+  "independent_review": "PASS",
+  "store_uploaded": true,
+  "physical_watch_tested": false,
+  "generated_at": "2026-11-07T16:21:44-06:00",
+  "production_gabbro_smoke": "foregrounded and captured with live clock",
+  "independent_review_report": "release/departure-independent-review.json",
+  "store_url": "https://apps.repebble.com/world-timer_dc42aa6ca1cf447785720f80",
+  "store_asset_review": "release/departure-update/0.3.0/independent-review.json",
+  "store_public_verified": true,
+  "store_public_proof": "release/departure-update/0.3.0/public-proof.json"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "world-timer-watch",
+  "version": "0.3.0",
+  "private": true,
+  "author": "Daniel Bally",
+  "keywords": [
+    "pebble-app"
+  ],
+  "pebble": {
+    "displayName": "World Timer",
+    "uuid": "0bd9074a-d5df-4b6b-99e7-90b829ab2aa7",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+      "emery",
+      "chalk",
+      "gabbro"
+    ],
+    "watchapp": {
+      "watchface": true
+    },
+    "capabilities": [
+      "configurable"
+    ],
+    "messageKeys": [
+      "Palette",
+      "Background",
+      "Foreground",
+      "Accent",
+      "TimeFormat",
+      "DateFormat",
+      "ShowSeconds",
+      "ZoneOffset",
+      "Theme",
+      "MainCity",
+      "OtherCity",
+      "MainStart",
+      "MainEnd",
+      "OtherStart",
+      "OtherEnd",
+      "TravelOn",
+      "FlapOn"
+    ],
+    "resources": {
+      "media": []
+    }
+  },
+  "dependencies": {
+    "@rebble/clay": "1.1.0"
+  }
+}

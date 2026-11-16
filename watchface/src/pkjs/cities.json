@@ -1,0 +1,402 @@
+[
+  {
+    "id": 0,
+    "name": "Chicago",
+    "code": "CHI",
+    "zone": "America/Chicago",
+    "lat": 41.878,
+    "lon": -87.63,
+    "first": 0,
+    "count": 37
+  },
+  {
+    "id": 1,
+    "name": "Tokyo",
+    "code": "TYO",
+    "zone": "Asia/Tokyo",
+    "lat": 35.676,
+    "lon": 139.65,
+    "first": 37,
+    "count": 1
+  },
+  {
+    "id": 2,
+    "name": "London",
+    "code": "LON",
+    "zone": "Europe/London",
+    "lat": 51.507,
+    "lon": -0.128,
+    "first": 38,
+    "count": 37
+  },
+  {
+    "id": 3,
+    "name": "New York",
+    "code": "NYC",
+    "zone": "America/New_York",
+    "lat": 40.713,
+    "lon": -74.006,
+    "first": 75,
+    "count": 37
+  },
+  {
+    "id": 4,
+    "name": "Los Angeles",
+    "code": "LAX",
+    "zone": "America/Los_Angeles",
+    "lat": 34.052,
+    "lon": -118.244,
+    "first": 112,
+    "count": 37
+  },
+  {
+    "id": 5,
+    "name": "Denver",
+    "code": "DEN",
+    "zone": "America/Denver",
+    "lat": 39.739,
+    "lon": -104.99,
+    "first": 149,
+    "count": 37
+  },
+  {
+    "id": 6,
+    "name": "Phoenix",
+    "code": "PHX",
+    "zone": "America/Phoenix",
+    "lat": 33.448,
+    "lon": -112.074,
+    "first": 186,
+    "count": 1
+  },
+  {
+    "id": 7,
+    "name": "Honolulu",
+    "code": "HNL",
+    "zone": "Pacific/Honolulu",
+    "lat": 21.307,
+    "lon": -157.858,
+    "first": 187,
+    "count": 1
+  },
+  {
+    "id": 8,
+    "name": "Anchorage",
+    "code": "ANC",
+    "zone": "America/Anchorage",
+    "lat": 61.218,
+    "lon": -149.9,
+    "first": 188,
+    "count": 37
+  },
+  {
+    "id": 9,
+    "name": "Toronto",
+    "code": "YYZ",
+    "zone": "America/Toronto",
+    "lat": 43.653,
+    "lon": -79.383,
+    "first": 225,
+    "count": 37
+  },
+  {
+    "id": 10,
+    "name": "St Johns",
+    "code": "YYT",
+    "zone": "America/St_Johns",
+    "lat": 47.561,
+    "lon": -52.713,
+    "first": 262,
+    "count": 37
+  },
+  {
+    "id": 11,
+    "name": "Mexico City",
+    "code": "MEX",
+    "zone": "America/Mexico_City",
+    "lat": 19.433,
+    "lon": -99.133,
+    "first": 299,
+    "count": 7
+  },
+  {
+    "id": 12,
+    "name": "Havana",
+    "code": "HAV",
+    "zone": "America/Havana",
+    "lat": 23.113,
+    "lon": -82.367,
+    "first": 306,
+    "count": 35
+  },
+  {
+    "id": 13,
+    "name": "Sao Paulo",
+    "code": "SAO",
+    "zone": "America/Sao_Paulo",
+    "lat": -23.551,
+    "lon": -46.633,
+    "first": 341,
+    "count": 1
+  },
+  {
+    "id": 14,
+    "name": "Buenos Aires",
+    "code": "BUE",
+    "zone": "America/Argentina/Buenos_Aires",
+    "lat": -34.604,
+    "lon": -58.382,
+    "first": 342,
+    "count": 1
+  },
+  {
+    "id": 15,
+    "name": "Santiago",
+    "code": "SCL",
+    "zone": "America/Santiago",
+    "lat": -33.449,
+    "lon": -70.669,
+    "first": 343,
+    "count": 37
+  },
+  {
+    "id": 16,
+    "name": "Paris",
+    "code": "PAR",
+    "zone": "Europe/Paris",
+    "lat": 48.857,
+    "lon": 2.352,
+    "first": 380,
+    "count": 37
+  },
+  {
+    "id": 17,
+    "name": "Berlin",
+    "code": "BER",
+    "zone": "Europe/Berlin",
+    "lat": 52.52,
+    "lon": 13.405,
+    "first": 417,
+    "count": 37
+  },
+  {
+    "id": 18,
+    "name": "Istanbul",
+    "code": "IST",
+    "zone": "Europe/Istanbul",
+    "lat": 41.008,
+    "lon": 28.978,
+    "first": 454,
+    "count": 1
+  },
+  {
+    "id": 19,
+    "name": "Cairo",
+    "code": "CAI",
+    "zone": "Africa/Cairo",
+    "lat": 30.044,
+    "lon": 31.236,
+    "first": 455,
+    "count": 31
+  },
+  {
+    "id": 20,
+    "name": "Casablanca",
+    "code": "CAS",
+    "zone": "Africa/Casablanca",
+    "lat": 33.573,
+    "lon": -7.59,
+    "first": 486,
+    "count": 16
+  },
+  {
+    "id": 21,
+    "name": "Johannesburg",
+    "code": "JNB",
+    "zone": "Africa/Johannesburg",
+    "lat": -26.204,
+    "lon": 28.047,
+    "first": 502,
+    "count": 1
+  },
+  {
+    "id": 22,
+    "name": "Dubai",
+    "code": "DXB",
+    "zone": "Asia/Dubai",
+    "lat": 25.205,
+    "lon": 55.271,
+    "first": 503,
+    "count": 1
+  },
+  {
+    "id": 23,
+    "name": "Delhi",
+    "code": "DEL",
+    "zone": "Asia/Kolkata",
+    "lat": 28.614,
+    "lon": 77.209,
+    "first": 504,
+    "count": 1
+  },
+  {
+    "id": 24,
+    "name": "Kathmandu",
+    "code": "KTM",
+    "zone": "Asia/Kathmandu",
+    "lat": 27.717,
+    "lon": 85.324,
+    "first": 505,
+    "count": 1
+  },
+  {
+    "id": 25,
+    "name": "Dhaka",
+    "code": "DAC",
+    "zone": "Asia/Dhaka",
+    "lat": 23.81,
+    "lon": 90.413,
+    "first": 506,
+    "count": 1
+  },
+  {
+    "id": 26,
+    "name": "Bangkok",
+    "code": "BKK",
+    "zone": "Asia/Bangkok",
+    "lat": 13.756,
+    "lon": 100.502,
+    "first": 507,
+    "count": 1
+  },
+  {
+    "id": 27,
+    "name": "Singapore",
+    "code": "SIN",
+    "zone": "Asia/Singapore",
+    "lat": 1.352,
+    "lon": 103.82,
+    "first": 508,
+    "count": 1
+  },
+  {
+    "id": 28,
+    "name": "Hong Kong",
+    "code": "HKG",
+    "zone": "Asia/Hong_Kong",
+    "lat": 22.319,
+    "lon": 114.169,
+    "first": 509,
+    "count": 1
+  },
+  {
+    "id": 29,
+    "name": "Shanghai",
+    "code": "SHA",
+    "zone": "Asia/Shanghai",
+    "lat": 31.23,
+    "lon": 121.474,
+    "first": 510,
+    "count": 1
+  },
+  {
+    "id": 30,
+    "name": "Seoul",
+    "code": "SEL",
+    "zone": "Asia/Seoul",
+    "lat": 37.566,
+    "lon": 126.978,
+    "first": 511,
+    "count": 1
+  },
+  {
+    "id": 31,
+    "name": "Sydney",
+    "code": "SYD",
+    "zone": "Australia/Sydney",
+    "lat": -33.869,
+    "lon": 151.209,
+    "first": 512,
+    "count": 37
+  },
+  {
+    "id": 32,
+    "name": "Adelaide",
+    "code": "ADL",
+    "zone": "Australia/Adelaide",
+    "lat": -34.929,
+    "lon": 138.601,
+    "first": 549,
+    "count": 37
+  },
+  {
+    "id": 33,
+    "name": "Perth",
+    "code": "PER",
+    "zone": "Australia/Perth",
+    "lat": -31.952,
+    "lon": 115.861,
+    "first": 586,
+    "count": 1
+  },
+  {
+    "id": 34,
+    "name": "Lord Howe",
+    "code": "LDH",
+    "zone": "Australia/Lord_Howe",
+    "lat": -31.55,
+    "lon": 159.083,
+    "first": 587,
+    "count": 37
+  },
+  {
+    "id": 35,
+    "name": "Auckland",
+    "code": "AKL",
+    "zone": "Pacific/Auckland",
+    "lat": -36.849,
+    "lon": 174.763,
+    "first": 624,
+    "count": 37
+  },
+  {
+    "id": 36,
+    "name": "Chatham",
+    "code": "CHT",
+    "zone": "Pacific/Chatham",
+    "lat": -43.95,
+    "lon": -176.55,
+    "first": 661,
+    "count": 37
+  },
+  {
+    "id": 37,
+    "name": "Apia",
+    "code": "APW",
+    "zone": "Pacific/Apia",
+    "lat": -13.833,
+    "lon": -171.75,
+    "first": 698,
+    "count": 4
+  },
+  {
+    "id": 38,
+    "name": "Kiritimati",
+    "code": "CXI",
+    "zone": "Pacific/Kiritimati",
+    "lat": 1.872,
+    "lon": -157.427,
+    "first": 702,
+    "count": 1
+  },
+  {
+    "id": 39,
+    "name": "Madrid",
+    "code": "MAD",
+    "zone": "Europe/Madrid",
+    "lat": 40.417,
+    "lon": -3.704,
+    "first": 703,
+    "count": 37
+  }
+]

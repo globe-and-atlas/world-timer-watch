@@ -1,0 +1,95 @@
+{
+  "reviewer": "fresh OpenAI Codex sub-agent",
+  "status": "PASS direct published assets; public gallery selection pending",
+  "reviewed_at": 1794087254.522579,
+  "app_id": "dc42aa6ca1cf447785720f80",
+  "release_id": "67796dbaa04545fe815594d0",
+  "version": "0.2.0",
+  "pbw_url": "https://appstore-api.repebble.com/api/assets/pbw/dc42aa6ca1cf447785720f80/0.2.0/5a4f4d1c-0ec0-4396-b0cb-b44705439704.pbw",
+  "pbw_exact": true,
+  "pbw_sha256": "fb48e1d9a3a15d448b0d3533c8050f03c330a09e22a9c8ebb1ca5842fdb87ab2",
+  "media": [
+    {
+      "filename": "emery_01_travel_colors.gif",
+      "url": "https://appstore-api.repebble.com/api/assets/screenshots/dc42aa6ca1cf447785720f80/emery/dad7d4d5-cf53-4862-a18b-15a24753cfb3.gif",
+      "bytes_exact": true,
+      "frames_pixels_timing_exact": true
+    },
+    {
+      "filename": "emery_02_amber.gif",
+      "url": "https://appstore-api.repebble.com/api/assets/screenshots/dc42aa6ca1cf447785720f80/emery/17c1a8a1-2fd8-4381-8752-aadd1def045e.gif",
+      "bytes_exact": true,
+      "frames_pixels_timing_exact": true
+    },
+    {
+      "filename": "emery_03_olive.gif",
+      "url": "https://appstore-api.repebble.com/api/assets/screenshots/dc42aa6ca1cf447785720f80/emery/a6eaf8dc-36a0-4758-b89c-78adac85c2a5.gif",
+      "bytes_exact": true,
+      "frames_pixels_timing_exact": true
+    },
+    {
+      "filename": "emery_04_custom.gif",
+      "url": "https://appstore-api.repebble.com/api/assets/screenshots/dc42aa6ca1cf447785720f80/emery/e5c6d347-2d19-4148-88f5-2cfcd2577554.gif",
+      "bytes_exact": true,
+      "frames_pixels_timing_exact": true
+    },
+    {
+      "filename": "chalk_01_travel_colors.gif",
+      "url": "https://appstore-api.repebble.com/api/assets/screenshots/dc42aa6ca1cf447785720f80/chalk/a38c232c-b8d4-4ccd-8ad6-5c8ebe88fff5.gif",
+      "bytes_exact": true,
+      "frames_pixels_timing_exact": true
+    },
+    {
+      "filename": "chalk_02_amber.gif",
+      "url": "https://appstore-api.repebble.com/api/assets/screenshots/dc42aa6ca1cf447785720f80/chalk/bb2137f6-edc7-44bb-bd92-4833e9488a97.gif",
+      "bytes_exact": true,
+      "frames_pixels_timing_exact": true
+    },
+    {
+      "filename": "chalk_03_olive.gif",
+      "url": "https://appstore-api.repebble.com/api/assets/screenshots/dc42aa6ca1cf447785720f80/chalk/6e3646d8-e48a-4e37-8fac-3abb12ccc37c.gif",
+      "bytes_exact": true,
+      "frames_pixels_timing_exact": true
+    },
+    {
+      "filename": "chalk_04_custom.gif",
+      "url": "https://appstore-api.repebble.com/api/assets/screenshots/dc42aa6ca1cf447785720f80/chalk/8469079c-ca84-425d-9f27-38085bd2c7b5.gif",
+      "bytes_exact": true,
+      "frames_pixels_timing_exact": true
+    },
+    {
+      "filename": "gabbro_01_travel_colors.gif",
+      "url": "https://appstore-api.repebble.com/api/assets/screenshots/dc42aa6ca1cf447785720f80/gabbro/39b68063-dfce-4280-a39f-bacdebbce3c9.gif",
+      "bytes_exact": true,
+      "frames_pixels_timing_exact": true
+    },
+    {
+      "filename": "gabbro_02_amber.gif",
+      "url": "https://appstore-api.repebble.com/api/assets/screenshots/dc42aa6ca1cf447785720f80/gabbro/a3c92677-0972-424a-af97-aa522abc193a.gif",
+      "bytes_exact": true,
+      "frames_pixels_timing_exact": true
+    },
+    {
+      "filename": "gabbro_03_olive.gif",
+      "url": "https://appstore-api.repebble.com/api/assets/screenshots/dc42aa6ca1cf447785720f80/gabbro/aa849138-6ba6-4f9a-a8bc-434267ce4ef5.gif",
+      "bytes_exact": true,
+      "frames_pixels_timing_exact": true
+    },
+    {
+      "filename": "gabbro_04_custom.gif",
+      "url": "https://appstore-api.repebble.com/api/assets/screenshots/dc42aa6ca1cf447785720f80/gabbro/f25f4ce3-02eb-4edb-973e-9ce4f5eefea7.gif",
+      "bytes_exact": true,
+      "frames_pixels_timing_exact": true
+    }
+  ],
+  "negative_validation_rejections": [
+    "sha256",
+    "uuid",
+    "version"
+  ],
+  "limits": [
+    "Public listing gallery order not checked by this reviewer",
+    "Public description propagation not checked by this reviewer",
+    "Physical watch testing not performed"
+  ]
+}

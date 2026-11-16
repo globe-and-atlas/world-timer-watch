@@ -1,0 +1,60 @@
+{
+  "version": "0.2.0",
+  "uuid": "0bd9074a-d5df-4b6b-99e7-90b829ab2aa7",
+  "artifact": "/Users/danielbally/Git/world-timer-watch/dist/World-Timer-0.2.0.pbw",
+  "sha256": "fb48e1d9a3a15d448b0d3533c8050f03c330a09e22a9c8ebb1ca5842fdb87ab2",
+  "platforms": [
+    "emery",
+    "chalk",
+    "gabbro"
+  ],
+  "iana_version": "2026f",
+  "cities": 40,
+  "transitions": 740,
+  "oracle_instants": 7060,
+  "host_sanitizers": true,
+  "actual_clay_lifecycle": true,
+  "native_layouts": [
+    "amber",
+    "olive",
+    "custom",
+    "date-off",
+    "iso",
+    "us",
+    "eu",
+    "twelve",
+    "twelve-seconds",
+    "long-iso",
+    "expired",
+    "travel"
+  ],
+  "native_sensor_reports": {
+    "emery": {
+      "double_knock": true,
+      "single_rejected": true,
+      "clock_stays_visible": true,
+      "automatic_return": true,
+      "travel_off": true,
+      "theme_city_window_persistence": true
+    },
+    "chalk": {
+      "double_knock": true,
+      "single_rejected": true,
+      "clock_stays_visible": true,
+      "automatic_return": true,
+      "travel_off": true,
+      "theme_city_window_persistence": true
+    },
+    "gabbro": {
+      "double_knock": true,
+      "single_rejected": true,
+      "clock_stays_visible": true,
+      "automatic_return": true,
+      "travel_off": true,
+      "theme_city_window_persistence": true
+    }
+  },
+  "independent_review": "PASS",
+  "published": false,
+  "verified_at": "2026-11-07T14:39:27-06:00"
+}

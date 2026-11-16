@@ -1,0 +1,23 @@
+{
+  "name": "World Timer",
+  "repo": "world-timer-watch",
+  "version": "0.1.1",
+  "url": "https://apps.repebble.com/dc42aa6ca1cf447785720f80",
+  "pbw_exact": true,
+  "native_round_pixels_exact": true,
+  "matched_round_urls": [
+    "https://assets.repebble.com/screenshots/dc42aa6ca1cf447785720f80/chalk/0a119607-7ea3-4696-8e1c-a5c283fee586.png",
+    "https://assets.repebble.com/screenshots/dc42aa6ca1cf447785720f80/chalk/3228568c-ca50-4530-82f6-433c5d452c19.png",
+    "https://assets.repebble.com/screenshots/dc42aa6ca1cf447785720f80/gabbro/d2a18c38-85a7-4411-8e03-e9557ea3e657.png",
+    "https://assets.repebble.com/screenshots/dc42aa6ca1cf447785720f80/gabbro/5b8cad2c-c781-40b1-a6c1-003808553fd9.png"
+  ],
+  "existing_gallery_preserved": false,
+  "animated_preview_first": true,
+  "screenshots": [
+    "https://assets.repebble.com/screenshots/dc42aa6ca1cf447785720f80/emery/b58d5d72-65f9-4a53-9d86-79c74a55e51c.gif",
+    "https://assets.repebble.com/screenshots/dc42aa6ca1cf447785720f80/emery/bc0f0a74-3814-400a-8574-79ca6b80caeb.png",
+    "https://assets.repebble.com/screenshots/dc42aa6ca1cf447785720f80/emery/8b663e12-ee1a-4db4-8d7c-a0ab5dbc1434.png",
+    "https://assets.repebble.com/screenshots/dc42aa6ca1cf447785720f80/chalk/0a119607-7ea3-4696-8e1c-a5c283fee586.png",
+    "https://assets.repebble.com/screenshots/dc42aa6ca1cf447785720f80/gabbro/d2a18c38-85a7-4411-8e03-e9557ea3e657.png"
+  ]
+}

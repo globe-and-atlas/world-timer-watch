@@ -1,0 +1,74 @@
+{
+  "name": "World Timer",
+  "app_id": "dc42aa6ca1cf447785720f80",
+  "uuid": "0bd9074a-d5df-4b6b-99e7-90b829ab2aa7",
+  "version": "0.2.0",
+  "url": "https://apps.repebble.com/dc42aa6ca1cf447785720f80",
+  "pbw_sha256": "fb48e1d9a3a15d448b0d3533c8050f03c330a09e22a9c8ebb1ca5842fdb87ab2",
+  "public_verified": true,
+  "screenshot_results": {
+    "uploaded": [
+      {
+        "platform": "emery",
+        "filename": "emery_01_travel_colors.gif",
+        "url": "/api/assets/screenshots/dc42aa6ca1cf447785720f80/emery/dad7d4d5-cf53-4862-a18b-15a24753cfb3.gif"
+      },
+      {
+        "platform": "emery",
+        "filename": "emery_02_amber.gif",
+        "url": "/api/assets/screenshots/dc42aa6ca1cf447785720f80/emery/17c1a8a1-2fd8-4381-8752-aadd1def045e.gif"
+      },
+      {
+        "platform": "emery",
+        "filename": "emery_03_olive.gif",
+        "url": "/api/assets/screenshots/dc42aa6ca1cf447785720f80/emery/a6eaf8dc-36a0-4758-b89c-78adac85c2a5.gif"
+      },
+      {
+        "platform": "emery",
+        "filename": "emery_04_custom.gif",
+        "url": "/api/assets/screenshots/dc42aa6ca1cf447785720f80/emery/e5c6d347-2d19-4148-88f5-2cfcd2577554.gif"
+      },
+      {
+        "platform": "chalk",
+        "filename": "chalk_01_travel_colors.gif",
+        "url": "/api/assets/screenshots/dc42aa6ca1cf447785720f80/chalk/a38c232c-b8d4-4ccd-8ad6-5c8ebe88fff5.gif"
+      },
+      {
+        "platform": "chalk",
+        "filename": "chalk_02_amber.gif",
+        "url": "/api/assets/screenshots/dc42aa6ca1cf447785720f80/chalk/bb2137f6-edc7-44bb-bd92-4833e9488a97.gif"
+      },
+      {
+        "platform": "chalk",
+        "filename": "chalk_03_olive.gif",
+        "url": "/api/assets/screenshots/dc42aa6ca1cf447785720f80/chalk/6e3646d8-e48a-4e37-8fac-3abb12ccc37c.gif"
+      },
+      {
+        "platform": "chalk",
+        "filename": "chalk_04_custom.gif",
+        "url": "/api/assets/screenshots/dc42aa6ca1cf447785720f80/chalk/8469079c-ca84-425d-9f27-38085bd2c7b5.gif"
+      },
+      {
+        "platform": "gabbro",
+        "filename": "gabbro_01_travel_colors.gif",
+        "url": "/api/assets/screenshots/dc42aa6ca1cf447785720f80/gabbro/39b68063-dfce-4280-a39f-bacdebbce3c9.gif"
+      },
+      {
+        "platform": "gabbro",
+        "filename": "gabbro_02_amber.gif",
+        "url": "/api/assets/screenshots/dc42aa6ca1cf447785720f80/gabbro/a3c92677-0972-424a-af97-aa522abc193a.gif"
+      },
+      {
+        "platform": "gabbro",
+        "filename": "gabbro_03_olive.gif",
+        "url": "/api/assets/screenshots/dc42aa6ca1cf447785720f80/gabbro/aa849138-6ba6-4f9a-a8bc-434267ce4ef5.gif"
+      },
+      {
+        "platform": "gabbro",
+        "filename": "gabbro_04_custom.gif",
+        "url": "/api/assets/screenshots/dc42aa6ca1cf447785720f80/gabbro/f25f4ce3-02eb-4edb-973e-9ce4f5eefea7.gif"
+      }
+    ],
+    "failed": []
+  }
+}

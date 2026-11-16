@@ -1,0 +1,44 @@
+{
+  "reviewer": "OpenAI Codex fresh creator-verifier /root/verify_departure_board",
+  "reviewed_at": "2026-11-07T16:22:11.316565-06:00",
+  "status": "PASS",
+  "version": "0.3.0",
+  "artifact": "dist/World-Timer-0.3.0.pbw",
+  "sha256": "7d84c1ae5684563a86a7b57ab51d1379266b67850c40af6be98045e8d954e497",
+  "bytes": 721543,
+  "uuid": "0bd9074a-d5df-4b6b-99e7-90b829ab2aa7",
+  "platforms": [
+    "emery",
+    "chalk",
+    "gabbro"
+  ],
+  "checks": {
+    "source_animation_lifecycle": true,
+    "native_visual_18_scenarios": true,
+    "signed_negative_zero_fractional_offsets": true,
+    "separate_day_marker": true,
+    "smallest_12h_seconds_no_overlap": true,
+    "no_call_hours_ui_or_settings": true,
+    "legacy_message_key_numbers_preserved": true,
+    "theme_city_migration": true,
+    "board_sanitizer_test": true,
+    "iana_7060_oracle_instants": true,
+    "real_clay_lifecycle": true,
+    "decoded_native_gifs_5000ms": true,
+    "chalk_gabbro_persistence_pixels_exact": true,
+    "pbw_platform_binary_equality": true,
+    "fixture_symbols_absent_in_production": true,
+    "amber_olive_native_matches_approved_content": true
+  },
+  "content_comparison_scope": "Six amber/olive native states independently compared with original approved preview GIF first frames. Rectangular entire frame; round interior radius(width/2-2.5) centered at((width-1)/2,(height-1)/2). Zero content pixel differences. Outside round hardware masks excluded.",
+  "limits": [
+    "Native animations exercised AppTimer via fixture clock advance, not physical-watch timing.",
+    "Physical watch animation performance, battery endurance and phone companion install remain unverified.",
+    "No store publication performed for0.3.0."
+  ],
+  "observations": [
+    "No open implementation blockers.",
+    "Native 12-hour mode has explicit AM/PM; numeric date and long city/offset stress cases fit.",
+    "Historical0.2.0 call/map/travel setting numbers are reserved but their controls are absent; new FlapOn appended."
+  ]
+}

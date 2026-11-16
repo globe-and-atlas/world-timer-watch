@@ -1,0 +1,13 @@
+Two cities. One departure board.
+
+World Timer puts two city clocks on a clean split-flap board. Only changing digits flip on each minute change, then settle automatically.
+
+Choose Main and Other from 40 named cities. The signed difference beside Other is relative to Main, including daylight saving: +15H means 15 hours ahead; fractional-hour zones retain their minutes. A separate +1D or -1D marker shows a calendar-day difference.
+
+Amber on black is the default. Choose Olive LCD or custom background, ink and flap-border colors. Turn split-flap transitions off if you prefer a still clock.
+
+Native layouts for Pebble Time 2, Time Round and Round 2. Supports watch-default, 12-hour and 24-hour time, AM/PM, optional seconds, and date choices including Off, ISO, US and European formats.
+
+After updating, open settings to choose your cities. Existing city and theme choices are preserved. This departure-board version removes the previous call-hours section and map-travel gesture.
+
+Offline IANA 2026f time-zone rules cover 2020 through 2037. Future government changes require an app update. The animated preview shows native split-flap frames; selected colors stay steady on the watch.

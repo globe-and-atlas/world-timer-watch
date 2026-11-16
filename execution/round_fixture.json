@@ -1,0 +1,10 @@
+{
+  "prefix": "WORLD",
+  "flags": {
+    "WORLD_FIXTURE": "1",
+    "WORLD_HOUR": "10",
+    "WORLD_MINUTE": "8",
+    "WORLD_SECOND": "30",
+    "WORLD_BATTERY": "82"
+  }
+}

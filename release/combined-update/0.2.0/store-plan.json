@@ -1,0 +1,59 @@
+{
+  "uuid": "0bd9074a-d5df-4b6b-99e7-90b829ab2aa7",
+  "version": "0.2.0",
+  "artifact": "/Users/danielbally/Git/world-timer-watch/dist/World-Timer-0.2.0.pbw",
+  "sha256": "fb48e1d9a3a15d448b0d3533c8050f03c330a09e22a9c8ebb1ca5842fdb87ab2",
+  "app_id": "dc42aa6ca1cf447785720f80",
+  "description_sha256": "99c0ca2fda5a4de8065787ed3dd19f6c08f8180119f8716e30fbf38a6c1b1715",
+  "assets": [
+    {
+      "path": "/Users/danielbally/Git/world-timer-watch/media/store/combined-0.2.0/emery_01_travel_colors.gif",
+      "sha256": "788f84e5ba4cee5715289866f17a3c0e182785cffa01bec6a0751091f4bc63fc"
+    },
+    {
+      "path": "/Users/danielbally/Git/world-timer-watch/media/store/combined-0.2.0/emery_02_amber.gif",
+      "sha256": "b7f705b969a6f0c221457b19897393ba73e644f452fec7f960ec1ed0772a5944"
+    },
+    {
+      "path": "/Users/danielbally/Git/world-timer-watch/media/store/combined-0.2.0/emery_03_olive.gif",
+      "sha256": "cfda5e0f26ecbfe45a04b766b5eab22c2863c6ef4d4dd67af1566f708117d5e6"
+    },
+    {
+      "path": "/Users/danielbally/Git/world-timer-watch/media/store/combined-0.2.0/emery_04_custom.gif",
+      "sha256": "da099b82a461ef7569e31351d1885a1609fc9b05ca0a9a9fafb7319c09b61d42"
+    },
+    {
+      "path": "/Users/danielbally/Git/world-timer-watch/media/store/combined-0.2.0/chalk_01_travel_colors.gif",
+      "sha256": "42ecec3c4fa7a41b4c5a44986e25f16f107ac13a6ab86a7d0b66b8d1214f5f8d"
+    },
+    {
+      "path": "/Users/danielbally/Git/world-timer-watch/media/store/combined-0.2.0/chalk_02_amber.gif",
+      "sha256": "6c1c382be47bfaf949ae0c4dd4f63ebca1f9d00dd52a516dc5a464d76510eb19"
+    },
+    {
+      "path": "/Users/danielbally/Git/world-timer-watch/media/store/combined-0.2.0/chalk_03_olive.gif",
+      "sha256": "8d478e8d9d59751dd5e56c798261f974c66eff94104108281192e8410c590826"
+    },
+    {
+      "path": "/Users/danielbally/Git/world-timer-watch/media/store/combined-0.2.0/chalk_04_custom.gif",
+      "sha256": "65824d29f0b36450e97d3c5ac0f739a201d4fbfa0c5d6c320f6a2e0028da1151"
+    },
+    {
+      "path": "/Users/danielbally/Git/world-timer-watch/media/store/combined-0.2.0/gabbro_01_travel_colors.gif",
+      "sha256": "e0b4335a969d777329d678d54ffe2cb0416932c15fb3e0e3933e37821562e9bb"
+    },
+    {
+      "path": "/Users/danielbally/Git/world-timer-watch/media/store/combined-0.2.0/gabbro_02_amber.gif",
+      "sha256": "8cb5ce26680c51c11956b682aba6cdeec67d517c15dbe289258d29d6248d2f7b"
+    },
+    {
+      "path": "/Users/danielbally/Git/world-timer-watch/media/store/combined-0.2.0/gabbro_03_olive.gif",
+      "sha256": "b2f6546ce8884676caccabfc4633e797eccfd1a2afa3ac0e051bf24c71f886df"
+    },
+    {
+      "path": "/Users/danielbally/Git/world-timer-watch/media/store/combined-0.2.0/gabbro_04_custom.gif",
+      "sha256": "224c0bb0b7cf34c2afef8ac158d9322128529edcab9606ce5209c551ae514771"
+    }
+  ],
+  "release_notes": "New map and twin-city layout, 40 IANA cities with DST, daily call windows, amber/olive/custom colors, and double-knock travel. Open settings after updating to choose cities and call hours."
+}

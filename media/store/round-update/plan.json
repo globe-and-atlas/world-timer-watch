@@ -1,0 +1,33 @@
+{
+  "repo": "world-timer-watch",
+  "name": "World Timer",
+  "version": "0.1.1",
+  "uuid": "0bd9074a-d5df-4b6b-99e7-90b829ab2aa7",
+  "artifact": "/Users/danielbally/Git/world-timer-watch/dist/World-Timer-0.1.1.pbw",
+  "sha256": "c272fe72b4d03fcacc854980fb0b9ba7867b8fef6f9da687ac838acb43d47b8a",
+  "platform_binary_sha256": {
+    "emery": "6f6b6c21c5f9a0ef91e4352176cf47962613a9c2169701e32a2120da1d8d54c1",
+    "chalk": "113d7fb25ce6bc13bfc7ba93e15c6bbeb649a05ff174fd0150be2a251c7b6c87",
+    "gabbro": "93539f0022a8faed91a39badde043b740dc7e64305169ee98fb8d8d499908d6a"
+  },
+  "app_id": null,
+  "screenshots": [
+    "/Users/danielbally/Git/world-timer-watch/media/store/emery_01_palettes.gif",
+    "/Users/danielbally/Git/world-timer-watch/media/store/emery_02_palette.png",
+    "/Users/danielbally/Git/world-timer-watch/media/store/emery_03_palette.png",
+    "/Users/danielbally/Git/world-timer-watch/media/store/round-update/chalk_01_round.png",
+    "/Users/danielbally/Git/world-timer-watch/media/store/round-update/chalk_02_round.png",
+    "/Users/danielbally/Git/world-timer-watch/media/store/round-update/gabbro_01_round.png",
+    "/Users/danielbally/Git/world-timer-watch/media/store/round-update/gabbro_02_round.png"
+  ],
+  "screenshot_sha256": {
+    "emery_01_palettes.gif": "9398b28d2f532240af2bab093aa8449ab4a5c9add2b777d94a441115c1429944",
+    "emery_02_palette.png": "6709eed2e8404e8e76af0bd5a68c3c43268ad134cb61f3d07d87d5df46265ded",
+    "emery_03_palette.png": "25410b08a9c08cc90491a63a0474ca84a25524be5b896e5b99ae5879141ea0bd",
+    "chalk_01_round.png": "06623ccef072c8260f2229d779b17b95904cad491ca4747264e18027e507b01d",
+    "chalk_02_round.png": "9de4e99fc3667e1d4234b7cc6ffe64e59afebf3035ba6074c336e4c0ffdb65f9",
+    "gabbro_01_round.png": "499eb31c8ab1bdc29569dadac302a02836e79884ab084bd2ba6388c7c0ac9538",
+    "gabbro_02_round.png": "7a1298beca77b4ddd5f2f140417bbf7e53b78ea386f9403febe87ca1e9e2f67e"
+  },
+  "release_notes": "Native layouts for original Time Round (180x180) and Round 2 (260x260). Preserves the Time 2 design and existing settings."
+}

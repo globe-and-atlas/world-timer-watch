@@ -1,0 +1,59 @@
+{
+  "uuid": "0bd9074a-d5df-4b6b-99e7-90b829ab2aa7",
+  "version": "0.3.0",
+  "artifact": "/Users/danielbally/Git/world-timer-watch/dist/World-Timer-0.3.0.pbw",
+  "sha256": "7d84c1ae5684563a86a7b57ab51d1379266b67850c40af6be98045e8d954e497",
+  "app_id": "dc42aa6ca1cf447785720f80",
+  "description_sha256": "09b2e0033341e51da51d7257a46bec29090766ccb5a2d80e5f01ad7084f042c5",
+  "assets": [
+    {
+      "path": "/Users/danielbally/Git/world-timer-watch/media/store/departure-0.3.0/emery_01_split_flap.gif",
+      "sha256": "fb5dce625e6a8860de30500c92e7c374850ddf7346839608b6034eeb5258bfa3"
+    },
+    {
+      "path": "/Users/danielbally/Git/world-timer-watch/media/store/departure-0.3.0/emery_02_amber.gif",
+      "sha256": "f14ad62c33e2c5a50bb1e676a823a4a927e53d6dedc516c8ffb037ce3cf937a1"
+    },
+    {
+      "path": "/Users/danielbally/Git/world-timer-watch/media/store/departure-0.3.0/emery_03_olive.gif",
+      "sha256": "1cc08f636d281242408c3804610415749ceb7962d665a3ddd82feba08e39aedd"
+    },
+    {
+      "path": "/Users/danielbally/Git/world-timer-watch/media/store/departure-0.3.0/emery_04_custom.gif",
+      "sha256": "32d8e9a809831c1f8ce0562cfbbc42b898c6487bdc87d9d4cfee7b6bb966e208"
+    },
+    {
+      "path": "/Users/danielbally/Git/world-timer-watch/media/store/departure-0.3.0/chalk_01_split_flap.gif",
+      "sha256": "d4ab22afc94a5cbadc72caf7f036c09455f6325faab04f635f451f245649ff98"
+    },
+    {
+      "path": "/Users/danielbally/Git/world-timer-watch/media/store/departure-0.3.0/chalk_02_amber.gif",
+      "sha256": "5b74fd1894cb2c3dcd3d8ea5248917abc2923501ed53614d79397342b5b66061"
+    },
+    {
+      "path": "/Users/danielbally/Git/world-timer-watch/media/store/departure-0.3.0/chalk_03_olive.gif",
+      "sha256": "577ab397aeb5e66a7977db0ae267ef4287c54ed8e1ecb1cf8cee2fc54d42132c"
+    },
+    {
+      "path": "/Users/danielbally/Git/world-timer-watch/media/store/departure-0.3.0/chalk_04_custom.gif",
+      "sha256": "7d56f5072286cc62de7039a42cc6f6d64d0db759a00a9cfcfeea59f17958525c"
+    },
+    {
+      "path": "/Users/danielbally/Git/world-timer-watch/media/store/departure-0.3.0/gabbro_01_split_flap.gif",
+      "sha256": "dc3d3b25b5badb17313b7d7d634d9561aed2fdfe191abfbaced6d291bb030bb8"
+    },
+    {
+      "path": "/Users/danielbally/Git/world-timer-watch/media/store/departure-0.3.0/gabbro_02_amber.gif",
+      "sha256": "3f2379b3db47c837f192068154f68491b56ea2fa64581fd248bc3ef2cb7b314c"
+    },
+    {
+      "path": "/Users/danielbally/Git/world-timer-watch/media/store/departure-0.3.0/gabbro_03_olive.gif",
+      "sha256": "9169cff5a03a1fb870e60b0aa493e1a00b7500ff64c07c6360a723d0308bd8ee"
+    },
+    {
+      "path": "/Users/danielbally/Git/world-timer-watch/media/store/departure-0.3.0/gabbro_04_custom.gif",
+      "sha256": "1cfb043616f339a433674c349c1f14a7213c46b9577ff5734df2c7f9c8cbe89a"
+    }
+  ],
+  "release_notes": "Departure-board design with split-flap minute transitions, signed city-time difference including DST and fractional hours, amber/olive/custom themes. Removes call hours and map travel; preserves city and theme choices."
+}
